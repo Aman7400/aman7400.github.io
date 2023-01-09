@@ -1,1 +1,2 @@
-STATIC BLOG
+# Footprints on Moon 🚀
+- Static Blog Site
