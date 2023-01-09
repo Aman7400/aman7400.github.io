@@ -1,5 +1,4 @@
-remote_theme: sharadcodes/jekyll-theme-serial-programmer
+theme: jekyll-theme-minimal
 title: Footprints on Moon 🚀
 description: My Upcoming Blogs on Philosophy & Physics
-plugins:
-- jekyll-remote-theme 
+
